@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\MinecraftClone.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F40931E1-F007-47DE-B2FE-CBC6060C10B3}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\MinecraftClone.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\MinecraftCloneEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{C5E3E0DF-89D0-4D20-A840-AC99649C0365}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\MinecraftClone">
+      <UniqueIdentifier>{2D227FA6-0E9D-49E4-BADD-771F066898A0}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\MinecraftClone\MinecraftClone.Build.cs">
+      <Filter>Source\MinecraftClone</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\MinecraftClone\MinecraftClone.cpp">
+      <Filter>Source\MinecraftClone</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MinecraftClone\MinecraftClone.h">
+      <Filter>Source\MinecraftClone</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MinecraftClone\MinecraftCloneGameModeBase.cpp">
+      <Filter>Source\MinecraftClone</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MinecraftClone\MinecraftCloneGameModeBase.h">
+      <Filter>Source\MinecraftClone</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

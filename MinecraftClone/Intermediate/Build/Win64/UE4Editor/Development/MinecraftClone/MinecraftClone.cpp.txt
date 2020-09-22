@@ -1,0 +1,2 @@
+C:\Users\mauri\Documents\Unreal Projects\MinecraftClone\Intermediate\Build\Win64\UE4Editor\Development\MinecraftClone\Definitions.MinecraftClone.h
+C:\Users\mauri\Documents\Unreal Projects\MinecraftClone\Source\MinecraftClone\MinecraftClone.h

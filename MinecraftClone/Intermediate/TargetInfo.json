@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "MinecraftClone",
+			"Path": "C:\\Users\\mauri\\Documents\\Unreal Projects\\MinecraftClone\\Source\\MinecraftClone.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "MinecraftCloneEditor",
+			"Path": "C:\\Users\\mauri\\Documents\\Unreal Projects\\MinecraftClone\\Source\\MinecraftCloneEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-MinecraftClone.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\mauri\Documents\Unreal Projects\MinecraftClone\Intermediate\Build\Win64\MinecraftCloneEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\mauri\Documents\Unreal Projects\MinecraftClone\Intermediate\Build\Win64\UE4Editor\Development\MinecraftClone\MinecraftClone.cpp.obj"
+"C:\Users\mauri\Documents\Unreal Projects\MinecraftClone\Intermediate\Build\Win64\UE4Editor\Development\MinecraftClone\MinecraftCloneGameModeBase.cpp.obj"
+"C:\Users\mauri\Documents\Unreal Projects\MinecraftClone\Intermediate\Build\Win64\UE4Editor\Development\MinecraftClone\MinecraftClone.init.gen.cpp.obj"
+"C:\Users\mauri\Documents\Unreal Projects\MinecraftClone\Intermediate\Build\Win64\UE4Editor\Development\MinecraftClone\MinecraftCloneGameModeBase.gen.cpp.obj"
+"C:\Users\mauri\Documents\Unreal Projects\MinecraftClone\Intermediate\Build\Win64\UE4Editor\Development\MinecraftClone\Default.rc2.res"
+/OUT:"C:\Users\mauri\Documents\Unreal Projects\MinecraftClone\Intermediate\Build\Win64\UE4Editor\Development\MinecraftClone\UE4Editor-MinecraftClone.lib"
+/INCLUDE:IMPLEMENT_MODULE_MinecraftClone
